@@ -1,7 +1,5 @@
 # MX-Videos
 
-# MX-Videos
-
 
 MX Videos is Video sharing platform. User can create account, watch video after login, Subscribe others, Like the videos, See Dashboard where users can analysis their videos. Developed a web application using with Django serving a REST API with templates.Implemented django OAuth model to get data from user’s account.Users can update their Profiles.
 
